@@ -1,0 +1,370 @@
+{
+  "apple": {
+    "recipe": "Raw Apple: Wash and eat fresh, or slice thinly.\nApple Sauce: Peel, core, and cook diced apples with 2 tbsp water for 5-7 minutes until soft. Serve warm or cold.",
+    "benefits": "Rich in fiber and vitamin C. Supports digestion, heart health, and blood sugar control. Antioxidants reduce inflammation.",
+    "bp_note": "Excellent for BP - contains potassium",
+    "diabetes_note": "Good for diabetes - low glycemic index",
+    "heart_note": "Soluble fiber helps lower cholesterol",
+    "obesity_note": "Low calorie, high fiber - great for weight loss"
+  },
+  "banana": {
+    "recipe": "Fresh Banana: Peel and eat as is.\nBanana Smoothie: Blend 1 banana with 1/2 cup yogurt and 1/2 cup milk. Add berries if desired.\nBanana Oats: Slice banana into oatmeal porridge.",
+    "benefits": "High in potassium for heart health. Natural sugars for energy. Contains magnesium for muscle and nerve function.",
+    "bp_note": "Rich in potassium - helps regulate blood pressure",
+    "diabetes_note": "Monitor portions due to natural sugars",
+    "heart_note": "Potassium supports heart rhythm",
+    "obesity_note": "Good pre-workout snack, moderate portions"
+  },
+  "oats": {
+    "recipe": "Basic Oatmeal: Mix 1/2 cup oats with 1 cup milk/water. Cook on medium heat 5-7 minutes, stirring occasionally.\nToppings: Add fresh fruits, nuts, honey, or cinnamon.\nOats with Veggies: Savoury option with cooked vegetables.",
+    "benefits": "High soluble fiber lowers cholesterol. Keeps you full longer. Provides sustained energy. Supports healthy blood sugar levels.",
+    "bp_note": "Helps lower blood pressure and cholesterol",
+    "diabetes_note": "Excellent for stable blood sugar",
+    "heart_note": "Beta-glucan fiber reduces heart disease risk",
+    "obesity_note": "Very filling, helps control appetite"
+  },
+  "egg": {
+    "recipe": "Boiled Egg: Place eggs in cold water, bring to boil, cook 7-8 minutes for hard boiled. Cool in ice water, peel gently.\nScrambled: Beat eggs, cook in non-stick pan with minimal oil, add spinach or vegetables.\nOmelette: Beat eggs, cook in pan, fill with vegetables and fold.",
+    "benefits": "Complete protein with all 9 amino acids. Contains choline for brain health. Rich in lutein for eye health. Very filling.",
+    "bp_note": "Good protein source, limit to 1-2 eggs for BP",
+    "diabetes_note": "Excellent protein - no impact on blood sugar",
+    "heart_note": "Choose boiled over fried for heart health",
+    "obesity_note": "High protein keeps you full, aids weight loss"
+  },
+  "watermelon": {
+    "recipe": "Fresh Slices: Cut into wedges or cubes and serve chilled.\nWatermelon Juice: Blend fresh watermelon, strain if desired, serve immediately.\nWatermelon Salad: Combine cubes with mint and lemon juice.",
+    "benefits": "92% water - excellent for hydration. Low in calories. Rich in lycopene (antioxidant). Vitamin A and C support immunity.",
+    "bp_note": "Hydrating and low in sodium",
+    "diabetes_note": "Low glycemic, good for snacking",
+    "heart_note": "Lycopene supports cardiovascular health",
+    "obesity_note": "Very low calorie, satisfying sweet treat"
+  },
+  "spinach": {
+    "recipe": "Sautéed Spinach: Heat 1 tbsp oil, add spinach, cook 2-3 minutes, add garlic and salt.\nSpinach Smoothie: Blend with banana, milk, and honey.\nSpinach Salad: Eat fresh with olive oil and lemon dressing.",
+    "benefits": "Iron-rich for blood health. Contains lutein for eyes. Packed with antioxidants. Rich in calcium and magnesium.",
+    "bp_note": "High in potassium and magnesium for BP control",
+    "diabetes_note": "Non-starchy vegetable - unlimited portions",
+    "heart_note": "Nitrates improve heart function",
+    "obesity_note": "Very low calorie, nutrient-dense"
+  },
+  "broccoli": {
+    "recipe": "Steamed Broccoli: Cut into florets, steam 5-7 minutes until tender-crisp. Serve with lemon.\nRoasted: Toss with olive oil and herbs, roast at 400°F for 15 minutes.\nBroccoli Soup: Steam broccoli, blend with vegetable broth.",
+    "benefits": "Rich in vitamin C and K. Contains sulforaphane (cancer-fighting). Supports bone health. High in fiber.",
+    "bp_note": "Low sodium, high potassium",
+    "diabetes_note": "Perfect for diabetes - high fiber, low carb",
+    "heart_note": "Fiber and antioxidants protect heart",
+    "obesity_note": "Low calorie, high volume food"
+  },
+  "carrot": {
+    "recipe": "Raw Carrots: Wash, peel, cut into sticks as snack.\nCooked Carrots: Steam for 5-7 minutes or roast with olive oil at 400°F for 20 minutes.\nCarrot Juice: Blend raw carrots with water or apple juice.",
+    "benefits": "High in beta-carotene for eye health. Supports immune system. Promotes skin health. High in fiber.",
+    "bp_note": "Good source of potassium",
+    "diabetes_note": "Moderate portions due to natural sugars",
+    "heart_note": "Antioxidants support heart health",
+    "obesity_note": "Low calorie crunchy snack"
+  },
+  "yogurt": {
+    "recipe": "Plain Yogurt: Eat with fresh fruits and berries.\nYogurt Parfait: Layer yogurt with granola and fresh fruits.\nYogurt Dressing: Mix with herbs for salad dressing.",
+    "benefits": "Probiotic source for digestive health. High in protein and calcium. Supports bone health and muscle strength.",
+    "bp_note": "Choose low-sodium varieties",
+    "diabetes_note": "Choose unsweetened - good protein source",
+    "heart_note": "Probiotics may reduce heart disease risk",
+    "obesity_note": "High protein aids satiety"
+  },
+  "rice": {
+    "recipe": "White Rice: Boil in 2:1 water ratio for 18-20 minutes. Brown Rice: Same method but cook for 25-30 minutes.\nFried Rice: Cook rice, then stir-fry with vegetables and minimal oil.",
+    "benefits": "Gluten-free carbohydrate. Provides quick energy. Easy to digest. Versatile base for meals.",
+    "bp_note": "Brown rice preferred - higher fiber",
+    "diabetes_note": "Use brown rice, control portions",
+    "heart_note": "Choose whole grain brown rice",
+    "obesity_note": "Portion control crucial - 1/2 cup cooked"
+  },
+  "cucumber": {
+    "recipe": "Fresh Cucumber: Wash, slice, eat as snack or in salads.\nCucumber Water: Add slices to water for flavor.\nCooled Salad: Dice and mix with yogurt, herbs, and lemon.",
+    "benefits": "96% water - excellent hydration. Very low in calories. Contains antioxidants. Supports digestion.",
+    "bp_note": "Perfect for BP - hydrating, low sodium",
+    "diabetes_note": "Unlimited portions - non-starchy",
+    "heart_note": "Hydration supports circulation",
+    "obesity_note": "Almost zero calories, very filling"
+  },
+  "tomato": {
+    "recipe": "Fresh Tomato: Slice and eat raw, or add to salads.\nTomato Sauce: Cook diced tomatoes with garlic and herbs for 10 minutes.\nTomato Soup: Blend cooked tomatoes with vegetable broth.",
+    "benefits": "Rich in lycopene (antioxidant). High in vitamin C. Supports heart health. Good for blood pressure.",
+    "bp_note": "Lycopene supports heart and BP",
+    "diabetes_note": "Low glycemic - good for blood sugar",
+    "heart_note": "Lycopene reduces heart disease risk",
+    "obesity_note": "Low calorie, adds flavor"
+  },
+  "orange": {
+    "recipe": "Fresh Orange: Peel and eat segments.\nOrange Juice: Extract juice from 2-3 oranges, drink fresh.\nOrange Salad: Mix segments with other fruits.",
+    "benefits": "High in vitamin C for immunity. Contains fiber for digestion. Natural antioxidants. Supports skin health.",
+    "bp_note": "Good source of potassium",
+    "diabetes_note": "Monitor portions - natural sugars present",
+    "heart_note": "Flavonoids improve blood vessel function",
+    "obesity_note": "Fiber-rich, eat whole fruit not juice"
+  },
+  "milk": {
+    "recipe": "Fresh Milk: Drink plain or warm.\nMilk with Turmeric: Warm milk with 1/2 tsp turmeric powder.\nMilk Smoothie: Blend with banana or berries.",
+    "benefits": "Rich in calcium for bones. Complete protein source. Vitamin D for immunity. Supports muscle health.",
+    "bp_note": "Choose low-fat varieties",
+    "diabetes_note": "Unsweetened milk - good protein",
+    "heart_note": "Low-fat milk for heart health",
+    "obesity_note": "Choose skim or low-fat options"
+  },
+  "chicken": {
+    "recipe": "Grilled Chicken: Marinate with herbs, grill 6-7 minutes per side.\nBoiled Chicken: Cook in water with salt for 20-25 minutes.\nChicken Curry: Cook with tomatoes, onions, and spices.",
+    "benefits": "High-quality lean protein. Rich in B vitamins. Supports muscle growth. Low in saturated fat.",
+    "bp_note": "Remove skin, avoid salt during cooking",
+    "diabetes_note": "Excellent protein - no blood sugar impact",
+    "heart_note": "Skinless breast is heart-healthy protein",
+    "obesity_note": "Lean protein aids weight loss"
+  },
+  "fish": {
+    "recipe": "Grilled Fish: Season with lemon and herbs, grill 5 minutes per side.\nSteamed Fish: Steam with ginger for 10-12 minutes.\nFish Curry: Cook in coconut milk with spices.",
+    "benefits": "Rich in omega-3 fatty acids. Heart-healthy protein. Brain health support. Anti-inflammatory properties.",
+    "bp_note": "Excellent for BP - omega-3s benefit heart",
+    "diabetes_note": "Perfect protein choice",
+    "heart_note": "Omega-3s reduce heart disease risk significantly",
+    "obesity_note": "Low calorie, high protein"
+  },
+  "lentils": {
+    "recipe": "Boiled Lentils: Rinse and boil in 3:1 water ratio for 20-25 minutes.\nLentil Soup: Cook with vegetables and spices.\nLentil Salad: Mix cooked lentils with vegetables.",
+    "benefits": "High in plant protein and fiber. Rich in iron. Supports digestion. Stabilizes blood sugar.",
+    "bp_note": "High in potassium, low sodium",
+    "diabetes_note": "Excellent for blood sugar control",
+    "heart_note": "Fiber and folate support heart health",
+    "obesity_note": "Very filling, low calorie density"
+  },
+  "beans": {
+    "recipe": "Boiled Beans: Soak overnight, boil for 45-60 minutes.\nBean Salad: Mix cooked beans with vegetables and dressing.\nBean Curry: Cook with tomatoes and spices.",
+    "benefits": "High in protein and fiber. Rich in minerals. Supports heart health. Keeps you full longer.",
+    "bp_note": "High fiber, supports BP control",
+    "diabetes_note": "Low glycemic - excellent choice",
+    "heart_note": "Soluble fiber lowers cholesterol",
+    "obesity_note": "High satiety, weight loss friendly"
+  },
+  "sweet potato": {
+    "recipe": "Baked Sweet Potato: Bake at 400°F for 45 minutes.\nBoiled: Cook in water for 20-25 minutes.\nMashed: Boil and mash with minimal butter.",
+    "benefits": "Rich in beta-carotene. High in fiber. Natural sweetness. Supports eye health.",
+    "bp_note": "Good source of potassium",
+    "diabetes_note": "Better than white potato - lower GI",
+    "heart_note": "Antioxidants protect heart",
+    "obesity_note": "Fiber-rich, satisfying carb"
+  },
+  "quinoa": {
+    "recipe": "Cooked Quinoa: Rinse and cook in 2:1 water ratio for 15 minutes.\nQuinoa Salad: Mix with vegetables and lemon dressing.\nQuinoa Bowl: Top with vegetables and protein.",
+    "benefits": "Complete protein with all amino acids. Gluten-free. High in fiber. Rich in minerals.",
+    "bp_note": "Heart-healthy whole grain",
+    "diabetes_note": "Good for blood sugar control",
+    "heart_note": "Magnesium supports heart rhythm",
+    "obesity_note": "High protein grain alternative"
+  },
+  "almonds": {
+    "recipe": "Raw Almonds: Eat 8-10 almonds as snack.\nAlmond Milk: Blend soaked almonds with water, strain.\nChopped: Sprinkle on yogurt or oatmeal.",
+    "benefits": "Heart-healthy fats. Rich in vitamin E. Protein and fiber. Supports brain health.",
+    "bp_note": "Helps lower blood pressure",
+    "diabetes_note": "Good snack - healthy fats",
+    "heart_note": "Monounsaturated fats protect heart",
+    "obesity_note": "Portion control - small handful"
+  },
+  "walnuts": {
+    "recipe": "Raw Walnuts: Eat 4-5 halves daily.\nChopped: Add to salads or oatmeal.\nWalnut Powder: Grind and add to smoothies.",
+    "benefits": "Omega-3 fatty acids. Brain health support. Anti-inflammatory. Heart-healthy.",
+    "bp_note": "Excellent for heart and BP",
+    "diabetes_note": "Healthy fats - good snack",
+    "heart_note": "Best nut for omega-3 ALA",
+    "obesity_note": "Satisfying healthy fat"
+  },
+  "papaya": {
+    "recipe": "Fresh Papaya: Cut in half, remove seeds, eat with spoon.\nPapaya Smoothie: Blend with milk or yogurt.\nPapaya Salad: Mix cubes with lime juice.",
+    "benefits": "Rich in papain enzyme for digestion. High in vitamin C. Supports immunity. Anti-inflammatory.",
+    "bp_note": "Good for digestion and heart",
+    "diabetes_note": "Moderate portions - natural sugars",
+    "heart_note": "Antioxidants support cardiovascular health",
+    "obesity_note": "Low calorie tropical treat"
+  },
+  "grapes": {
+    "recipe": "Fresh Grapes: Wash and eat as snack.\nGrape Juice: Blend fresh grapes, strain if desired.\nFrozen Grapes: Freeze for a cool treat.",
+    "benefits": "Rich in antioxidants. Supports heart health. Hydrating. Natural energy boost.",
+    "bp_note": "Contains resveratrol for heart",
+    "diabetes_note": "Small portions - higher in sugars",
+    "heart_note": "Resveratrol protects blood vessels",
+    "obesity_note": "Portion control - 1 cup serving"
+  },
+  "pomegranate": {
+    "recipe": "Fresh Arils: Cut and extract seeds to eat.\nPomegranate Juice: Blend arils and strain.\nSalad Topping: Sprinkle arils on salads.",
+    "benefits": "Powerful antioxidants. Supports heart health. Anti-inflammatory. Rich in vitamin C.",
+    "bp_note": "Excellent for heart and BP",
+    "diabetes_note": "Good in moderation",
+    "heart_note": "May improve cholesterol levels",
+    "obesity_note": "Antioxidant-rich, moderate calories"
+  },
+  "avocado": {
+    "recipe": "Fresh Avocado: Slice and eat with salt and pepper.\nGuacamole: Mash with lime, onion, tomato, cilantro.\nAvocado Toast: Spread on whole grain bread.",
+    "benefits": "Healthy monounsaturated fats. High in potassium. Rich in fiber. Supports nutrient absorption.",
+    "bp_note": "More potassium than banana",
+    "diabetes_note": "Healthy fats stabilize blood sugar",
+    "heart_note": "Monounsaturated fats lower cholesterol",
+    "obesity_note": "Portion control - 1/4 to 1/2 avocado"
+  },
+  "salmon": {
+    "recipe": "Baked Salmon: Season with lemon, bake at 400°F for 12-15 minutes.\nGrilled: Grill 4-5 minutes per side.\nSalmon Salad: Flake cooked salmon over greens.",
+    "benefits": "Highest in omega-3 EPA and DHA. High-quality protein. Rich in B vitamins. Supports brain health.",
+    "bp_note": "Omega-3s significantly lower BP",
+    "diabetes_note": "Excellent protein with healthy fats",
+    "heart_note": "Best fish for heart health",
+    "obesity_note": "Protein-rich, satisfying"
+  },
+  "tuna": {
+    "recipe": "Grilled Tuna: Grill 3-4 minutes per side for medium-rare.\nTuna Salad: Mix with yogurt, celery, onion.\nTuna Sandwich: Use on whole grain bread.",
+    "benefits": "High protein, low fat. Rich in selenium. Omega-3 fatty acids. Supports metabolism.",
+    "bp_note": "Omega-3s support healthy BP",
+    "diabetes_note": "Lean protein, no carbs",
+    "heart_note": "Omega-3s reduce inflammation",
+    "obesity_note": "Very lean protein"
+  },
+  "shrimp": {
+    "recipe": "Grilled Shrimp: Marinate with garlic and lemon, grill 2-3 minutes per side.\nBoiled Shrimp: Boil in seasoned water for 2-3 minutes.\nShrimp Stir-fry: Quick cook with vegetables.",
+    "benefits": "Very high protein, very low fat. Rich in selenium. Contains astaxanthin antioxidant. Low calorie.",
+    "bp_note": "Low in saturated fat",
+    "diabetes_note": "Pure protein, no carbs",
+    "heart_note": "Lean protein, low cholesterol impact",
+    "obesity_note": "Extremely low calorie protein"
+  },
+  "turkey": {
+    "recipe": "Roasted Turkey: Season and roast at 350°F, 20 minutes per pound.\nTurkey Burger: Form patties, grill 5-6 minutes per side.\nTurkey Stir-fry: Slice and cook with vegetables.",
+    "benefits": "Lean protein. Rich in tryptophan. Contains selenium. Supports muscle health.",
+    "bp_note": "Lean protein, remove skin",
+    "diabetes_note": "Excellent lean protein",
+    "heart_note": "Lower in saturated fat than red meat",
+    "obesity_note": "Very lean, filling protein"
+  },
+  "tofu": {
+    "recipe": "Pan-fried Tofu: Press to remove water, slice, pan-fry until golden.\nTofu Scramble: Crumble and cook like scrambled eggs.\nTofu Soup: Add cubes to miso or vegetable soup.",
+    "benefits": "Plant-based complete protein. Contains all 9 amino acids. Rich in calcium and iron. Low in calories.",
+    "bp_note": "Soy protein may lower BP",
+    "diabetes_note": "Low carb, good protein source",
+    "heart_note": "May help lower cholesterol",
+    "obesity_note": "Low calorie, high protein"
+  },
+  "peanuts": {
+    "recipe": "Roasted Peanuts: Roast at 350°F for 15-20 minutes.\nPeanut Butter: Blend roasted peanuts until smooth.\nPeanut Snack: Eat handful as snack.",
+    "benefits": "High in protein and healthy fats. Rich in vitamin E. Contains resveratrol. Good energy source.",
+    "bp_note": "May help lower BP",
+    "diabetes_note": "Healthy fats, moderate portions",
+    "heart_note": "Monounsaturated fats support heart",
+    "obesity_note": "Portion control - small handful"
+  },
+  "kale": {
+    "recipe": "Sautéed Kale: Remove stems, sauté in oil with garlic 5 minutes.\nKale Salad: Massage raw kale with oil and lemon.\nKale Chips: Bake at 350°F for 10-15 minutes.",
+    "benefits": "Nutrient powerhouse. High in vitamins K, A, C. Contains antioxidants. Anti-inflammatory.",
+    "bp_note": "High in potassium and magnesium",
+    "diabetes_note": "Non-starchy, unlimited portions",
+    "heart_note": "Antioxidants protect heart",
+    "obesity_note": "Very low calorie, nutrient-dense"
+  },
+  "cauliflower": {
+    "recipe": "Roasted Cauliflower: Toss with oil, roast at 425°F for 25 minutes.\nCauliflower Rice: Pulse in food processor, sauté 5 minutes.\nMashed: Steam and mash like potatoes.",
+    "benefits": "Low carb vegetable. High in fiber and vitamin C. Contains sulforaphane. Supports detoxification.",
+    "bp_note": "Low sodium, good for BP",
+    "diabetes_note": "Excellent low-carb substitute",
+    "heart_note": "Fiber supports heart health",
+    "obesity_note": "Low calorie rice/potato substitute"
+  },
+  "bell pepper": {
+    "recipe": "Stuffed Peppers: Fill with rice and meat, bake 30 minutes.\nRoasted: Roast at 450°F for 20 minutes.\nFresh: Slice and eat raw with hummus.",
+    "benefits": "Very high in vitamin C. Contains carotenoids. Low in calories. Supports eye health.",
+    "bp_note": "High in vitamin C and potassium",
+    "diabetes_note": "Low carb, colorful addition",
+    "heart_note": "Antioxidants protect heart",
+    "obesity_note": "Very low calorie, crunchy"
+  },
+  "zucchini": {
+    "recipe": "Zucchini Noodles: Spiralize and sauté 2-3 minutes.\nGrilled Zucchini: Slice, grill 3-4 minutes per side.\nZucchini Bread: Bake with whole wheat flour.",
+    "benefits": "Very low in calories. High water content. Contains vitamin C and potassium. Easy to digest.",
+    "bp_note": "Good source of potassium",
+    "diabetes_note": "Low carb pasta alternative",
+    "heart_note": "Low calorie, heart-friendly",
+    "obesity_note": "Excellent pasta substitute"
+  },
+  "mushrooms": {
+    "recipe": "Sautéed Mushrooms: Slice and cook in butter/oil 5-7 minutes.\nGrilled: Marinate and grill whole caps 5 minutes.\nMushroom Soup: Cook and blend with broth.",
+    "benefits": "Low calorie, high umami flavor. Contains B vitamins. Source of vitamin D. Immune support.",
+    "bp_note": "Low sodium, flavorful",
+    "diabetes_note": "Very low carb, adds flavor",
+    "heart_note": "May help lower cholesterol",
+    "obesity_note": "Adds volume and flavor, low calorie"
+  },
+  "onion": {
+    "recipe": "Caramelized Onions: Cook slowly on low heat 30-40 minutes.\nRaw: Slice thin for salads and sandwiches.\nSautéed: Cook in oil 5-7 minutes until soft.",
+    "benefits": "Contains quercetin antioxidant. Supports immune health. Anti-inflammatory. Adds flavor without calories.",
+    "bp_note": "May help lower BP",
+    "diabetes_note": "Low carb, adds flavor",
+    "heart_note": "Quercetin supports heart health",
+    "obesity_note": "Low calorie flavor enhancer"
+  },
+  "garlic": {
+    "recipe": "Roasted Garlic: Roast whole head at 400°F for 40 minutes.\nMinced: Sauté minced garlic in oil 30 seconds.\nRaw: Add to dressings and sauces.",
+    "benefits": "Powerful antimicrobial. Contains allicin. Supports immune system. Anti-inflammatory.",
+    "bp_note": "May significantly lower BP",
+    "diabetes_note": "May improve blood sugar",
+    "heart_note": "May lower cholesterol and BP",
+    "obesity_note": "Adds flavor without calories"
+  },
+  "ginger": {
+    "recipe": "Ginger Tea: Steep fresh slices in hot water 10 minutes.\nStir-fry: Add minced ginger to cooking.\nGinger Juice: Blend and strain fresh ginger.",
+    "benefits": "Powerful anti-inflammatory. Aids digestion. May reduce nausea. Supports immune health.",
+    "bp_note": "May help lower BP",
+    "diabetes_note": "May improve insulin sensitivity",
+    "heart_note": "Anti-inflammatory for heart",
+    "obesity_note": "Boosts metabolism slightly"
+  },
+  "turmeric": {
+    "recipe": "Golden Milk: Mix 1 tsp turmeric in warm milk.\nCurry: Add to curry dishes.\nTurmeric Rice: Add 1/2 tsp when cooking rice.",
+    "benefits": "Contains curcumin, powerful anti-inflammatory. Antioxidant. Supports brain health. May reduce chronic disease risk.",
+    "bp_note": "Anti-inflammatory for vessels",
+    "diabetes_note": "May improve insulin sensitivity",
+    "heart_note": "Curcumin protects heart",
+    "obesity_note": "Anti-inflammatory, metabolism support"
+  },
+  "green tea": {
+    "recipe": "Hot Green Tea: Steep tea bag in hot water 3-5 minutes.\nIced Green Tea: Brew strong, pour over ice.\nGreen Tea Smoothie: Blend cooled tea with fruit.",
+    "benefits": "Rich in catechins (antioxidants). Boosts metabolism. Supports brain function. May aid fat burning.",
+    "bp_note": "May help lower BP",
+    "diabetes_note": "May improve insulin sensitivity",
+    "heart_note": "Catechins protect heart",
+    "obesity_note": "May boost metabolism and fat burning"
+  },
+  "berries": {
+    "recipe": "Fresh Berries: Wash and eat as snack.\nBerry Smoothie: Blend with yogurt and milk.\nBerry Salad: Mix with other fruits.",
+    "benefits": "Highest antioxidant fruits. High in fiber. Low glycemic. Supports brain health.",
+    "bp_note": "Anthocyanins support BP",
+    "diabetes_note": "Best fruit choice for blood sugar",
+    "heart_note": "Antioxidants protect heart strongly",
+    "obesity_note": "Low calorie, satisfies sweet cravings"
+  },
+  "chia seeds": {
+    "recipe": "Chia Pudding: Mix 3 tbsp chia with 1 cup milk, refrigerate overnight.\nChia Water: Mix 1 tbsp in water, let sit 10 minutes.\nSprinkle: Add to yogurt, oatmeal, smoothies.",
+    "benefits": "Very high in omega-3 ALA. Rich in fiber. Complete protein. Absorbs liquid to keep you full.",
+    "bp_note": "Omega-3s and fiber support BP",
+    "diabetes_note": "High fiber stabilizes blood sugar",
+    "heart_note": "Omega-3s and fiber protect heart",
+    "obesity_note": "Expands in stomach, very filling"
+  },
+  "flaxseeds": {
+    "recipe": "Ground Flaxseed: Grind fresh and add to smoothies, yogurt.\nFlax Egg: Mix 1 tbsp ground flax with 3 tbsp water.\nBaking: Add to muffins and breads.",
+    "benefits": "Richest plant source of omega-3 ALA. High in lignans (antioxidants). Excellent fiber. Supports hormone balance.",
+    "bp_note": "One of best foods for lowering BP",
+    "diabetes_note": "High fiber improves blood sugar",
+    "heart_note": "Omega-3s strongly protect heart",
+    "obesity_note": "Fiber aids satiety and regularity"
+  },
+  "oat bran": {
+    "recipe": "Cooked Oat Bran: Mix 1/3 cup with 1 cup water, cook 5 minutes.\nBaking: Add to muffins and breads.\nSprinkle: Add to yogurt or smoothies.",
+    "benefits": "Even higher in soluble fiber than oats. Powerful cholesterol-lowering effect. Supports digestion.",
+    "bp_note": "Beta-glucan lowers BP and cholesterol",
+    "diabetes_note": "Excellent for blood sugar control",
+    "heart_note": "Most effective food for lowering cholesterol",
+    "obesity_note": "Very filling, aids regularity"
+  }
+}

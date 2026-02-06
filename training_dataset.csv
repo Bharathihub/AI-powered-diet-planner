@@ -1,0 +1,96 @@
+food,veg_type,meal,calories,protein,carbs,fat,safe_for,price
+Apple,veg,morning,95,0.5,25,0.3,"diabetes,bp,obesity,heart,normal",20
+Banana,veg,morning,105,1.3,27,0.4,"diabetes,bp,obesity,heart,normal",15
+Orange,veg,morning,62,1.2,15,0.2,"diabetes,bp,obesity,heart,normal",18
+Papaya,veg,morning,60,0.6,15,0.1,"diabetes,bp,obesity,heart,normal",25
+Watermelon,veg,morning,46,0.9,12,0.2,"diabetes,bp,obesity,heart,normal",20
+Pomegranate,veg,morning,83,1.7,19,1.2,"diabetes,bp,heart,normal",60
+Oats,veg,morning,150,5.0,27,3.0,"diabetes,bp,obesity,heart,normal",30
+Whole Wheat Bread,veg,morning,80,4.0,14,1.0,"diabetes,bp,heart,normal",25
+Brown Bread,veg,morning,120,4.0,22,2.0,"diabetes,bp,heart,normal",25
+Upma,veg,morning,160,4.0,25,4.0,"diabetes,bp,heart,normal",20
+Poha,veg,morning,140,3.0,22,2.0,"diabetes,bp,heart,normal",18
+Idli,veg,morning,58,2.0,12,0.5,"diabetes,bp,obesity,heart,normal",15
+Boiled Egg,non-veg,morning,70,6.0,1,5.0,"diabetes,bp,heart,normal",8
+Egg White,non-veg,morning,17,4.0,0,0.0,"diabetes,bp,obesity,heart,normal",5
+Greek Yogurt,veg,morning,100,10.0,6,0.0,"diabetes,bp,obesity,heart,normal",40
+Paneer,veg,morning,265,18.0,4,20.0,"diabetes,bp,normal",80
+Almonds (10 pieces),veg,morning,70,3.0,3,6.0,"diabetes,bp,heart,normal",50
+Walnuts (5 pieces),veg,morning,65,1.5,1,6.5,"diabetes,bp,heart,normal",60
+Vegetable Sandwich,veg,morning,200,8.0,30,6.0,"diabetes,bp,heart,normal",40
+Egg Sandwich,non-veg,morning,250,12.0,25,12.0,"diabetes,bp,heart,normal",35
+Paneer Sandwich,veg,morning,280,15.0,28,14.0,"diabetes,bp,normal",50
+Green Tea,veg,morning,2,0.0,0,0.0,"diabetes,bp,obesity,heart,normal",10
+Lemon Water,veg,morning,7,0.0,2,0.0,"diabetes,bp,obesity,heart,normal",5
+Buttermilk,veg,morning,40,2.0,5,1.0,"diabetes,bp,obesity,heart,normal",15
+Fresh Fruit Juice,veg,morning,110,1.0,26,0.0,"bp,heart,normal",30
+Berry Smoothie,veg,morning,180,8.0,20,6.0,"diabetes,bp,heart,normal",45
+Chia Seed Pudding,veg,morning,160,6.0,15,8.0,"diabetes,bp,heart,normal",55
+Steamed Broccoli,veg,afternoon,55,4.0,11,0.6,"diabetes,bp,obesity,heart,normal",40
+Steamed Cauliflower,veg,afternoon,25,2.0,5,0.3,"diabetes,bp,obesity,heart,normal",30
+Steamed Carrots,veg,afternoon,35,0.8,8,0.2,"diabetes,bp,obesity,heart,normal",25
+Mixed Steamed Vegetables,veg,afternoon,80,4.0,16,0.5,"diabetes,bp,obesity,heart,normal",35
+Steamed Spinach,veg,afternoon,23,3.0,4,0.4,"diabetes,bp,obesity,heart,normal",20
+Grilled Chicken Breast,non-veg,afternoon,165,31.0,0,3.6,"diabetes,bp,obesity,heart,normal",120
+Grilled Fish,non-veg,afternoon,140,25.0,0,4.0,"diabetes,bp,obesity,heart,normal",150
+Grilled Paneer,veg,afternoon,200,14.0,3,15.0,"diabetes,bp,normal",80
+Grilled Vegetables,veg,afternoon,90,3.0,18,2.0,"diabetes,bp,obesity,heart,normal",40
+Dal (Lentil Curry),veg,afternoon,180,12.0,30,1.0,"diabetes,bp,obesity,heart,normal",25
+Chickpea Curry,veg,afternoon,210,11.0,35,3.0,"bp,heart,normal",30
+Vegetable Curry,veg,afternoon,120,4.0,20,3.0,"diabetes,bp,obesity,heart,normal",35
+Fish Curry,non-veg,afternoon,180,20.0,8,8.0,"diabetes,bp,heart,normal",120
+Chicken Curry,non-veg,afternoon,200,22.0,6,10.0,"diabetes,bp,heart,normal",100
+Brown Rice,veg,afternoon,220,5.0,45,2.0,"bp,heart,normal",30
+Quinoa,veg,afternoon,180,8.0,32,3.0,"bp,obesity,heart,normal",80
+Whole Wheat Roti,veg,afternoon,80,3.0,15,1.0,"diabetes,bp,heart,normal",8
+Millet,veg,afternoon,190,6.0,38,2.0,"bp,obesity,heart,normal",40
+Green Salad,veg,afternoon,50,3.0,10,0.5,"diabetes,bp,obesity,heart,normal",30
+Cucumber Salad,veg,afternoon,16,0.7,4,0.1,"diabetes,bp,obesity,heart,normal",15
+Beetroot Salad,veg,afternoon,60,2.0,13,0.2,"diabetes,bp,obesity,heart,normal",25
+Grilled Salmon,non-veg,dinner,180,25.0,0,8.0,"diabetes,bp,heart,normal",200
+Baked Chicken,non-veg,dinner,150,28.0,0,3.0,"diabetes,bp,obesity,heart,normal",100
+Steamed Fish,non-veg,dinner,120,22.0,0,3.0,"diabetes,bp,obesity,heart,normal",120
+Tofu Curry,veg,dinner,140,15.0,8,6.0,"diabetes,bp,obesity,heart,normal",60
+Egg Curry,non-veg,dinner,160,12.0,5,10.0,"diabetes,bp,heart,normal",25
+Roasted Bell Peppers,veg,dinner,40,1.0,9,0.3,"diabetes,bp,obesity,heart,normal",35
+Sautéed Spinach,veg,dinner,35,4.0,5,0.5,"diabetes,bp,obesity,heart,normal",20
+Roasted Zucchini,veg,dinner,25,2.0,5,0.4,"diabetes,bp,obesity,heart,normal",40
+Steamed Asparagus,veg,dinner,40,4.0,8,0.2,"diabetes,bp,obesity,heart,normal",80
+Cabbage Stir-fry,veg,dinner,50,2.0,11,0.2,"diabetes,bp,obesity,heart,normal",15
+Vegetable Khichdi,veg,dinner,150,6.0,28,2.0,"diabetes,bp,obesity,heart,normal",25
+Quinoa Salad,veg,dinner,160,6.0,30,3.0,"diabetes,bp,obesity,heart,normal",70
+Vegetable Soup,veg,dinner,80,3.0,15,1.0,"diabetes,bp,obesity,heart,normal",30
+Clear Chicken Soup,non-veg,dinner,100,8.0,8,3.0,"diabetes,bp,obesity,heart,normal",50
+Grilled Vegetables with Herbs,veg,dinner,70,3.0,14,1.0,"diabetes,bp,obesity,heart,normal",40
+Steamed Momos (Vegetable),veg,dinner,120,4.0,20,3.0,"diabetes,bp,heart,normal",40
+Baked Sweet Potato,veg,dinner,100,2.0,23,0.1,"diabetes,bp,obesity,heart,normal",20
+Oatmeal Bowl,veg,morning,280,8.0,45,6.0,"diabetes,bp,heart,normal",35
+Protein Smoothie,veg,morning,220,15.0,25,8.0,"diabetes,bp,obesity,heart,normal",60
+Avocado Toast,veg,morning,320,8.0,30,18.0,"diabetes,bp,heart,normal",80
+Peanut Butter Toast,veg,morning,280,12.0,28,16.0,"diabetes,bp,heart,normal",45
+Whole Wheat Pancakes,veg,morning,250,8.0,35,8.0,"diabetes,bp,heart,normal",50
+Quinoa Breakfast Bowl,veg,morning,300,12.0,45,8.0,"diabetes,bp,heart,normal",70
+Nut Mix (30g),veg,morning,180,6.0,6,15.0,"diabetes,bp,heart,normal",80
+Cottage Cheese Bowl,veg,morning,200,20.0,8,8.0,"diabetes,bp,obesity,heart,normal",60
+Muesli,veg,morning,260,8.0,40,8.0,"diabetes,bp,heart,normal",55
+Egg Scramble,non-veg,morning,180,14.0,2,12.0,"diabetes,bp,heart,normal",30
+Quinoa Vegetable Bowl,veg,afternoon,350,12.0,55,8.0,"diabetes,bp,heart,normal",85
+Lentil Rice Bowl,veg,afternoon,320,15.0,50,6.0,"diabetes,bp,obesity,heart,normal",40
+Chicken Rice Bowl,non-veg,afternoon,380,25.0,45,8.0,"diabetes,bp,heart,normal",120
+Fish Rice Bowl,non-veg,afternoon,360,22.0,45,6.0,"diabetes,bp,heart,normal",150
+Vegetable Biryani,veg,afternoon,300,8.0,55,6.0,"diabetes,bp,heart,normal",60
+Paneer Curry with Rice,veg,afternoon,420,18.0,50,15.0,"diabetes,bp,normal",100
+Dal Rice Combo,veg,afternoon,280,12.0,50,4.0,"diabetes,bp,obesity,heart,normal",35
+Grilled Chicken Salad,non-veg,afternoon,250,30.0,15,8.0,"diabetes,bp,obesity,heart,normal",140
+Tuna Salad,non-veg,afternoon,220,25.0,10,8.0,"diabetes,bp,obesity,heart,normal",120
+Vegetable Pasta,veg,afternoon,280,10.0,50,6.0,"diabetes,bp,heart,normal",70
+Grilled Salmon with Vegetables,non-veg,dinner,280,30.0,15,12.0,"diabetes,bp,heart,normal",220
+Baked Chicken with Sweet Potato,non-veg,dinner,300,32.0,25,8.0,"diabetes,bp,heart,normal",130
+Tofu Stir-fry with Rice,veg,dinner,260,18.0,35,8.0,"diabetes,bp,obesity,heart,normal",80
+Vegetable Khichdi Bowl,veg,dinner,240,8.0,45,4.0,"diabetes,bp,obesity,heart,normal",35
+Egg Fried Rice,non-veg,dinner,280,15.0,40,8.0,"diabetes,bp,heart,normal",45
+Paneer Tikka with Roti,veg,dinner,320,20.0,25,18.0,"diabetes,bp,normal",90
+Fish Curry with Rice,non-veg,dinner,300,22.0,35,10.0,"diabetes,bp,heart,normal",140
+Vegetable Curry with Roti,veg,dinner,220,8.0,35,6.0,"diabetes,bp,obesity,heart,normal",50
+Grilled Vegetables with Quinoa,veg,dinner,240,10.0,40,6.0,"diabetes,bp,obesity,heart,normal",75
+Chicken Soup with Bread,non-veg,dinner,200,18.0,20,6.0,"diabetes,bp,obesity,heart,normal",70
